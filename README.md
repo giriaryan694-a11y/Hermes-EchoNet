@@ -216,39 +216,6 @@ NVIDIA NIM is a trusted platform, but professional pentests should always follow
 
 ---
 
-## Will agencies like FBI, CBI, NSA, RAW, Europol, etc. arrest me for AI-generated pentest scripts?
-
-No — not if you are:
-
-* Working ethically
-* Staying inside legal boundaries
-* Doing authorized pentests
-* Using labs/CTFs/training environments properly
-
-Using AI to help:
-
-* Learn cybersecurity
-* Build lab tooling
-* Generate helper scripts
-* Speed up workflows
-* Understand vulnerabilities
-
-is not automatically illegal.
-
-AI can significantly improve learning and productivity during security research and pentesting.
-
-However:
-
-* Always respect laws and platform policies
-* Never attack systems without permission
-* Verify AI-generated output before using it
-
-AI systems can sometimes hallucinate, generate incorrect logic, or produce unrealistic attack ideas. Always validate commands, scripts, and technical explanations before using them in real environments.
-
-If something looks suspicious or confusing, cross-check it manually.
-
----
-
 # ⚠️ Important Notes
 
 * Hermes-EchoNet is intended for:
